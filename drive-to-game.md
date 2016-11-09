@@ -1,3 +1,3 @@
 You decide to drive to the game with your friends but you are in no condition to drive. You were driving at 60 miles per hour to not be late to the game. You temperoraly were distracted by your friends and end up crashing to a telephone pole. You were badly inured, hospitalized and your legs were permenantly paralyzed. This means that you won't be able to play basketball ever again. End of story.
 
-[Intro]()
+[Intro](intro.md)
