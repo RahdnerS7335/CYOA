@@ -3,7 +3,6 @@ You Are Currently A Star Basketball Player At Telecommunication Of Arts And Tech
 What Do You Do?
 
 
-
 [Chill With Friends](chill-with-friends.md)
 
 [Go To Practice](go-to-practice.md)

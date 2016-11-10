@@ -2,8 +2,8 @@ You Are Practicing With Your Team. Coach Tells Yo To Go In Layup Lines Half Cour
 
 What Do You Do?
 
-[Play With Limited Minutes]()
+[Play With Limited Minutes](play-limited.md)
 
-[Play Through The Injury]()
+[Play Through The Injury](play-through-injury.md)
 
-[Sit It Out]()
+[Sit It Out](sit-it-out.md)
