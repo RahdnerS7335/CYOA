@@ -1,4 +1,4 @@
-#####Instead of practicing, you decide to hang around with your friends. You drink with your friends because you believe that you won't be drunk when the game starts. You get drunk. You wake up realizing you have 15 minutes until the game start.
+#####Instead Of Practicing, You Decide To Hang Around With Your Friends. You Drink With Your Friends Because You Believe That You Won't Be Drunk When The Game Starts. You Get Drunk. You Wake Up Realizing You Have 15 Minutes Until The Game Start.
 
 
 #### What do you do?
