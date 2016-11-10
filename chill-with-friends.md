@@ -3,7 +3,7 @@ Instead of practicing, you decide to hang around with your friends. You drink wi
 
 What do you do?
 
-[Drive To The Game](drive-to-the-game.md)
+[Drive To The Game](drive-to-game.md)
 
 [Call An Cab](call-an-cab.md)
 
