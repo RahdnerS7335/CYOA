@@ -6,4 +6,4 @@ What Do You Do?
 
 [Chill With Friends](chill-with-friends.md)
 
-[Go To Practice](go-to-practice.m)
+[Go To Practice](go-to-practice.md)
